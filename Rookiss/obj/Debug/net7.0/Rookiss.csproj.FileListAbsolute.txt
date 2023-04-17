@@ -1,0 +1,15 @@
+/Users/yoohan/C#/Rookiss/Rookiss/bin/Debug/net7.0/Rookiss
+/Users/yoohan/C#/Rookiss/Rookiss/bin/Debug/net7.0/Rookiss.deps.json
+/Users/yoohan/C#/Rookiss/Rookiss/bin/Debug/net7.0/Rookiss.runtimeconfig.json
+/Users/yoohan/C#/Rookiss/Rookiss/bin/Debug/net7.0/Rookiss.dll
+/Users/yoohan/C#/Rookiss/Rookiss/bin/Debug/net7.0/Rookiss.pdb
+/Users/yoohan/C#/Rookiss/Rookiss/obj/Debug/net7.0/Rookiss.csproj.AssemblyReference.cache
+/Users/yoohan/C#/Rookiss/Rookiss/obj/Debug/net7.0/Rookiss.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yoohan/C#/Rookiss/Rookiss/obj/Debug/net7.0/Rookiss.AssemblyInfoInputs.cache
+/Users/yoohan/C#/Rookiss/Rookiss/obj/Debug/net7.0/Rookiss.AssemblyInfo.cs
+/Users/yoohan/C#/Rookiss/Rookiss/obj/Debug/net7.0/Rookiss.csproj.CoreCompileInputs.cache
+/Users/yoohan/C#/Rookiss/Rookiss/obj/Debug/net7.0/Rookiss.dll
+/Users/yoohan/C#/Rookiss/Rookiss/obj/Debug/net7.0/refint/Rookiss.dll
+/Users/yoohan/C#/Rookiss/Rookiss/obj/Debug/net7.0/Rookiss.pdb
+/Users/yoohan/C#/Rookiss/Rookiss/obj/Debug/net7.0/Rookiss.genruntimeconfig.cache
+/Users/yoohan/C#/Rookiss/Rookiss/obj/Debug/net7.0/ref/Rookiss.dll
